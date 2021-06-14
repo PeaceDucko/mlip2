@@ -11,6 +11,4 @@ The goal of this competition is to generate Monet-style images out of the real-l
 The notebooks present in this repository were directly downloaded from Kaggle. The notebooks were written in Python and ran on  a Kaggle TPU v3-8 accelerator. Additionally, libraries like Tensorflow, Keras, numpy and scipy were used.
 
 # Notebooks referenced
-UnfriendlyAI (2021, February). CycleGAN with DG pretraining. https://www.kaggle.com/unfriendlyai/cyclegan-with-dg-pretraining
-
-Jang. (2020, August). Monet CycleGAN Tutorial. https://www.kaggle.com/amyjang/monet-cyclegan-tutorial
+Prashans Dixit (2021, April). 📝Coleridge Initiative-EDA📚 & Baseline Model🎯. https://www.kaggle.com/prashansdixit/coleridge-initiative-eda-baseline-model
